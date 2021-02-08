@@ -1,1 +1,1 @@
-# 10_Redis_caching
+# sequelize 와 redis 를 이용한 캐싱
